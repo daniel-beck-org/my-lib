@@ -1,3 +1,3 @@
 def call(message) {
-  echo "Hello, world!"
+  echo "Goodbye, world!"
 }
