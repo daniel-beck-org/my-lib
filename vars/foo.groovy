@@ -1,3 +1,3 @@
 def info(message) {
-  echo "Hello, world!"
+  echo "Goodbye, world!"
 }
