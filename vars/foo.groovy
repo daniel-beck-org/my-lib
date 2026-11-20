@@ -1,3 +1,3 @@
-def info(message) {
+def call(message) {
   echo "Hello, world!"
 }
